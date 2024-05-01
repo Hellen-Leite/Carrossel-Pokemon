@@ -100,6 +100,7 @@ background-repeat: no-repeat;
 }
 .cartao .container-imagem{
     text-align: center;
+    max-height: 265px;
 }
 .cartao .imagem-pokemon{
     max-width: 100%;
